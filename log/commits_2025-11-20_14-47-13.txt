@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+bc37fc2 - Frank Pulido, 4 minutes ago : Add .gitattributes for LF normalization
+6606638 - Frank Pulido, 6 minutes ago : Create text.txt
+b0d582e - frankpulido, 10 minutes ago : script in go
