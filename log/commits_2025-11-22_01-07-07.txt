@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+21b4531 - GitHub Actions, 34 hours ago : Auto: Add latest commits log
+bc37fc2 - Frank Pulido, 34 hours ago : Add .gitattributes for LF normalization
+6606638 - Frank Pulido, 34 hours ago : Create text.txt
